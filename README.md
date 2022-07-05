@@ -2,8 +2,6 @@
 - 
 - ♦️ ola,eu sou o Gabriel
 -
-- ♦️ estou participando do curso pensamento computacional
--
 - ♦️ sou estudante do novo ensino médio
 - 
 - ♦️ moro na localidade de Vila Nova municipio de Pitanga/PR
